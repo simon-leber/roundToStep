@@ -1,6 +1,6 @@
 {
   "name": "round-to-step",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Round numbers to a step. Accepts an interval and optional offset.",
   "source": "src/index.ts",
   "main": "dist/index.js",
